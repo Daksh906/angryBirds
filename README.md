@@ -1,2 +1,5 @@
-# angryBirdsStage2.5
+Daksh 
+Sanvi
+Prasad
+Deepti# angryBirdsStage2.5
 Angry Birds stage 2.5 with Class Inheritance and Images
